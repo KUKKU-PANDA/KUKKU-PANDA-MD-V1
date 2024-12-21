@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/JawadTechX">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=KHAN-AI-+v2.0+MultiDevice;Developed+by+JawadTechX;Give+star+and+forks+this+Repo+🌟" alt="JawadTechXReadme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=KUKKU-PANDA-+MD+V1+MultiDevice;Developed+by+kukkupanda;Give+star+and+forks+this+Repo+🌟" alt="kukkupandaReadme">
   </a>
 </p>
 
 --- 
 
-<a><img src='https://files.catbox.moe/149k8x.jpg'/></a>
+<a><img src='https://bit.ly/3Dq78lI'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
